@@ -9,6 +9,7 @@ Olá! Eu sou o Cristian Souza 👋
 Alguns fatos sobre mim 👨🏻‍💻
 
 </h3>
+
 - Sou Biologo por formação, mais apaixonado por programação. Tenho 35 anos, acriano, brasileiro.
 - Gosto de ajudar as pessoas com dificuldades tanto em minha area de formação como em programação.
 

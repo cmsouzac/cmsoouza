@@ -10,16 +10,16 @@ Alguns fatos sobre mim 👨🏻‍💻
 
 </h3>
 
-- Sou Biologo por formação, mais apaixonado por programação. Tenho 35 anos, acriano, brasileiro.
+- Tenho 35 anos, acriano, brasileiro.
 - Gosto de ajudar as pessoas com dificuldades tanto em minha area de formação como em programação.
 
 - Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar minha formação profissional e conhecer novas culturas, pessoas e ter novas experiências. 😄
 
-- No momento fazendo cursos na area de desenvolvimento e trabalho na area comercial, fazendo com que um dia eu trabalhe na area de desenvolvimento de sistemas. 💻
+- No momento fazendo cursos na area de desenvolvimento, fazendo com que um dia eu trabalhe na area de desenvolvimento de sistemas. 💻
 
 <div>
 
-[![Twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cmsoouza)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmsoouzaac/)[![linkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cmsoouzaac)
+[![Twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cmsoouza)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmsoouza/)[![linkedin](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cmsoouza)
 
 </div>
 
@@ -35,7 +35,6 @@ Alguns fatos sobre mim 👨🏻‍💻
     <img align="center alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img align="center alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=whit">
     <img align="center alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img align="center alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </div>
 
 <div>

@@ -34,7 +34,9 @@ Alguns fatos sobre mim 👨🏻‍💻
     <img align="center alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
+
 ### 📑 Em andamento
+
 <div>
     <img align="center alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
      <img align="center alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whitek">

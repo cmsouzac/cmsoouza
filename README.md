@@ -12,7 +12,6 @@ Alguns fatos sobre mim 👨🏻‍💻
 </h3>
 
 - Tenho 38 anos, acriano, brasileiro.
-- Gosto de ajudar as pessoas com dificuldades tanto em minha area de formação como em programação.
 
 - Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar minha formação profissional e conhecer novas culturas, pessoas e ter novas experiências. 😄
 

@@ -25,7 +25,7 @@ Alguns fatos sobre mim 👨🏻‍💻
 
 </div>
 
-![cmsouza GitHub stats](https://github-readme-stats.vercel.app/api?username=cmsoouza&show_icons=true&theme=radical)
+![cmsouza GitHub stats](https://github-readme-stats.vercel.app/api?username=cmsouzac&show_icons=true&theme=radical)
 
 ### 💻 Tecnologias que eu uso no meu dia
 
